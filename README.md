@@ -3,7 +3,7 @@
 ## Electronics & Communication Engineering Student
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering;TCS+Ninja+Selected;Salesforce+Developer;Machine+Learning+for+Antenna+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;TCS+Ninja+Selected;Salesforce+Developer+Intern;Machine+Learning+for+Antenna+Design" />
 </div>
 
 <br/>
